@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=info
+comment0.target=BinaryNode(java.lang.Comparable)
+comment1.params=info
+comment1.target=void\ setInfo(java.lang.Comparable)
+comment2.params=
+comment2.target=java.lang.Comparable\ getInfo()
+comment3.params=link
+comment3.target=void\ setLeft(BinaryNode)
+comment4.params=link
+comment4.target=void\ setRight(BinaryNode)
+comment5.params=
+comment5.target=BinaryNode\ getLeft()
+comment6.params=
+comment6.target=BinaryNode\ getRight()
+numComments=7
